@@ -1,0 +1,26 @@
+html{
+    background-color: blue;
+
+}
+.box{
+    
+    border-radius: 10px;
+    margin: 25%;
+    border-style: 1px solid black;
+
+}
+ol:hover{
+    background-color: white;
+
+}
+.table td:nth-child(3n){
+    background-color: gray;
+}
+body{
+    background color: white;
+}
+table{
+    border-radius: 8px;
+    border-color: black;
+    border-style: double;
+}
