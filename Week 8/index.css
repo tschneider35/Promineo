@@ -9,7 +9,7 @@ html{
     border-style: 1px solid black;
 
 }
-ol:hover{
+.list{
     background-color: white;
 
 }
@@ -17,7 +17,7 @@ ol:hover{
     background-color: gray;
 }
 body{
-    background color: white;
+    background-color: white;
 }
 table{
     border-radius: 8px;
